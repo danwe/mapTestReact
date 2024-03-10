@@ -30,8 +30,8 @@ const MapComponent = () => {
               symbol: {
                 type: 'simple-marker',
                 style: 'circle',
-                color: [255, 0, 0], // Red color
-                size: 6
+                color: [255, 0, 0], 
+                size: 7
               }
             }
           });
