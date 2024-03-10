@@ -31,7 +31,7 @@ const MapComponent = () => {
                 type: 'simple-marker',
                 style: 'circle',
                 color: [255, 0, 0], 
-                size: 7
+                size: 5
               }
             }
           });
